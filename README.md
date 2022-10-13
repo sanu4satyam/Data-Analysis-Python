@@ -1,1 +1,1 @@
-# ZEP_Analytics-Assignments
+Practice of Data Analysis using Python
